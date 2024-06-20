@@ -1,0 +1,200 @@
+TicketartBez;EavCode;ProduktNummer;PreisstufeNummer;PreisstufeDrucktext;Preis
+Abr. DT Schule Selbstz. ML;W-NAL;11476;68;10W;29
+Abr. DT Schule 1.Kind ML;W-NAL;11477;68;10W;12
+Abr. DT Schule 2.Kind ML;W-NAL;11478;68;10W;6
+Abr. DT Schule 3.Kind ML;W-NAL;11479;68;10W;0
+Abr. DT Schule Selbstz. RL;W-NAL;11480;68;10W;29
+Abr. DT Schule 1.Kind RL;W-NAL;11481;68;10W;12
+Abr. DT Schule 2.Kind RL;W-NAL;11482;68;10W;6
+Abr. DT Schule 3.Kind RL;W-NAL;11483;68;10W;0
+Abr. DT Schule Selbstzahler T;W-NAL;11484;68;10W;29
+Abr. DT Schule 1.Kind T;W-NAL;11485;68;10W;12
+Abr. DT Schule 2.Kind T;W-NAL;11486;68;10W;6
+Abr. DT Schule 3.Kind T;W-NAL;11487;68;10W;0
+Abr. DT Schule Selbstzahler H;W-NAL;11488;68;10W;29
+Abr. DT Schule 1.Kind H;W-NAL;11489;68;10W;12
+Abr. DT Schule 2.Kind H;W-NAL;11490;68;10W;6
+Abr. DT Schule 3.Kind H;W-NAL;11491;68;10W;0
+Abr. DT Schule Selbstzahler S;W-NAL;11492;68;10W;29
+Abr. DT Schule 1.Kind S;W-NAL;11493;68;10W;12
+Abr. DT Schule 2.Kind S;W-NAL;11494;68;10W;6
+Abr. DT Schule 3.Kind S;W-NAL;11495;68;10W;0
+Abr. DT Schule Selbstz. B1M;W-NAL;11496;68;10W;33
+Abr. DT Schule 1.Kind B1M;W-NAL;11497;68;10W;8
+Abr. DT Schule 2.Kind B1M;W-NAL;11498;68;10W;4
+Sch??lerCard BI (ST) 3. Kind;T-STP;11266;26;BI;0
+Sch??lerCard BI (ST) 2. Kind;T-SSP;11264;26;BI;6
+Sch??lerCard BI (ST) 1. Kind;T-SRP;11262;26;BI;12
+Sch??lerCard BI Selbstzahler;T-SQP;11260;26;BI;29
+GruppenTicket 11 Personen Kurz;T-XGO;10964;25;KMH;1,1
+Delbr??ckCard;H-YDD;10962;44;1H;60,7
+Delbr??ckCard;H-YDC;10962;42;0H;47,3
+WarburgCard;H-YCD;10960;44;1H;60,7
+WarburgCard;H-YCC;10960;42;0H;47,3
+MonatsTicketJobG1;S-ZTD;10830;56;4S;104
+MonatsTicketJobG1;S-ZTC;10830;55;3S;88,3
+MonatsTicketJobG1;S-ZTB;10830;54;2S;74,1
+MonatsTicketJobG1;S-ZTA;10830;53;1S;57,2
+MonatsTicketJobG1;S-ZTZ;10830;52;K3S;57,2
+MonatsTicketJobG1;S-ZTY;10830;51;K2S;38,3
+MonatsTicketJobG1;S-ZTE;10830;57;5S;134,8
+AzubiMonatsTicket;S-ZRD;10826;56;4S;121,1
+AzubiMonatsTicket;S-ZRC;10826;55;3S;102,8
+AzubiMonatsTicket;S-ZRB;10826;54;2S;86,3
+AzubiMonatsTicket;S-ZRA;10826;53;1S;66,6
+AzubiMonatsTicket;S-ZRZ;10826;52;K3S;66,6
+AzubiMonatsTicket;S-ZRY;10826;51;K2S;44,6
+AzubiMonatsTicket;S-ZRE;10826;57;5S;156,9
+FunTicketMonatStadtGemeinde;S-YGA;10902;53;1S;19
+FunTicketMonatNetzAbo;S-ZIE;10816;57;5S;31,4
+FunTicketMonatNetz;S-YGE;10814;57;5S;36,9
+FunTicketJahrNetz;S-YHE;10880;57;5S;247,2
+Nachtbuszuschlag;S-BHE;10842;57;5S;2
+9 Uhr Die Blaue Rheine Abo n.??;M-EPK;10764;12;A;35,8
+9 Uhr BocholtTicket n.??.;M-EOS;10762;19;0;32,4
+9 UhrAbo MS n.??.;M-CLA;10178;10;0;35,9
+Abo MS n.??.;M-CKA;10176;10;0;49
+Libori WochenTicket;H-BMD;10868;44;1H;24,7
+Praktikantenticket;H-YAK;10898;50;6H;0
+Praktikantenticket;H-YAH;10898;49;5H;0
+Praktikantenticket;H-YAG;10898;48;4H;0
+Praktikantenticket;H-YAF;10898;47;3H;0
+Praktikantenticket;H-YAE;10898;46;2H;0
+Praktikantenticket;H-YAD;10898;44;1H;0
+Praktikantenticket;H-YAC;10898;42;0H;0
+Nachtbuszuschlag;H-BKK;10848;50;6H;3
+Nachtbuszuschlag;H-BKH;10848;49;5H;3
+Nachtbuszuschlag;H-BKG;10848;48;4H;3
+Nachtbuszuschlag;H-BKF;10848;47;3H;3
+Nachtbuszuschlag;H-BKE;10848;46;2H;2,5
+Nachtbuszuschlag;H-BKD;10848;44;1H;2
+SchulAzubiMonatsT Abo_HST;H-ZVK;10792;50;6H;184
+SchulAzubiMonatsT Abo_HST;H-ZVH;10792;49;5H;151,8
+SchulAzubiMonatsT Abo_HST;H-ZVG;10792;48;4H;121,8
+SchulAzubiMonatsT Abo_HST;H-ZVF;10792;47;3H;107,9
+SchulAzubiMonatsT Abo_HST;H-ZVE;10792;46;2H;93,2
+SchulAzubiMonatsT Abo_HST;H-ZVD;10792;44;1H;73
+SchulAzubiMonatsT Abo_HST;H-ZVC;10792;42;0H;56,5
+Abo Vorauszahlung_HST nicht ??b;H-ZSK;10858;50;6H;2040
+Abo Vorauszahlung_HST nicht ??b;H-ZSH;10858;49;5H;1618,8
+Abo Vorauszahlung_HST nicht ??b;H-ZSG;10858;48;4H;1263,6
+Abo Vorauszahlung_HST nicht ??b;H-ZSF;10858;47;3H;1117,2
+Abo Vorauszahlung_HST nicht ??b;H-ZSE;10858;46;2H;960
+Abo Vorauszahlung_HST nicht ??b;H-ZSD;10858;44;1H;712,8
+Abo Vorauszahlung_HST nicht ??b;H-ZSC;10858;42;0H;558
+Abo Vorauszahlung_HST;H-ZSK;10856;50;6H;2040
+Abo Vorauszahlung_HST;H-ZSH;10856;49;5H;1618,8
+Abo Vorauszahlung_HST;H-ZSG;10856;48;4H;1263,6
+Abo Vorauszahlung_HST;H-ZSF;10856;47;3H;1117,2
+Abo Vorauszahlung_HST;H-ZSE;10856;46;2H;960
+Abo Vorauszahlung_HST;H-ZSD;10856;44;1H;712,8
+Abo Vorauszahlung_HST;H-ZSC;10856;42;0H;558
+PaderTicket Premium;H-ZYD;10404;44;1H;54,9
+PaderTicket Premium;H-ZYC;10404;42;0H;44,9
+PaderTicket Basis;H-ZXD;10402;44;1H;29,9
+SchulwegTicket;H-ZWK;10864;50;6H;178
+SchulwegTicket;H-ZWH;10864;49;5H;145,1
+SchulwegTicket;H-ZWG;10864;48;4H;120,5
+SchulwegTicket;H-ZWF;10864;47;3H;104,6
+SchulwegTicket;H-ZWE;10864;46;2H;88,6
+SchulwegTicket;H-ZWD;10864;44;1H;67,9
+SchulwegTicket;H-ZWC;10864;42;0H;52,9
+FunTicket_HST;H-XAK;10850;50;6H;26
+FunTicket_HST;H-XAD;10850;44;1H;19
+FunAbo_HST;H-XBK;10852;50;6H;17,5
+FunAbo_HST;H-XBD;10852;44;1H;13,3
+LiboriTicket;H-BLB;10866;45;PB;2
+LiboriTicket Kind;H-BLB;10886;45;PB;1
+KinderTicket Bad Lippspringe;H-BSC;10892;42;0H;1,2
+AdventTicket Kind;H-BNB;10888;45;PB;1
+EinzelTicket Bad Lippspringe;H-BRC;10890;42;0H;2,3
+AdventTicket;H-BNB;10870;45;PB;2
+9 Uhr Abo Vorauszahlung_HST ni;H-ZTK;10862;50;6H;1255,2
+9 Uhr Abo Vorauszahlung_HST ni;H-ZTH;10862;49;5H;1099,2
+9 Uhr Abo Vorauszahlung_HST ni;H-ZTG;10862;48;4H;889,2
+9 Uhr Abo Vorauszahlung_HST ni;H-ZTF;10862;47;3H;775,2
+9 Uhr Abo Vorauszahlung_HST ni;H-ZTE;10862;46;2H;675,6
+9 Uhr Abo Vorauszahlung_HST ni;H-ZTD;10862;44;1H;529,2
+9 Uhr Abo Vorauszahlung_HST ni;H-ZTC;10862;42;0H;415,2
+9 Uhr Abo Vorauszahlung_HST;H-ZTK;10860;50;6H;1255,2
+9 Uhr Abo Vorauszahlung_HST;H-ZTH;10860;49;5H;1099,2
+9 Uhr Abo Vorauszahlung_HST;H-ZTG;10860;48;4H;889,2
+9 Uhr Abo Vorauszahlung_HST;H-ZTF;10860;47;3H;775,2
+9 Uhr Abo Vorauszahlung_HST;H-ZTE;10860;46;2H;675,6
+9 Uhr Abo Vorauszahlung_HST;H-ZTD;10860;44;1H;529,2
+9 Uhr Abo Vorauszahlung_HST;H-ZTC;10860;42;0H;415,2
+60plusAbo_PB;H-XDD;10854;44;1H;33
+60plusAbo_HST;H-XCK;10790;50;6H;46
+60plusAbo_HST;H-XCD;10790;44;1H;33
+4er KinderTicket Bad Lippsprin;H-BVC;10896;42;0H;4,8
+4erTicket Bad Lippspringe;H-BTC;10894;42;0H;8,4
+LemGoCard ?? JahresTicket;T-LFQ;10648;28;1LI;681,6
+LemGoCard p JahresTicket;T-LEQ;10646;28;1LI;681,6
+LemGoCard ?? MonatsTicket;T-LBQ;10640;28;1LI;56,8
+LemGoCard p MonatsTicket;T-LAQ;10638;28;1LI;56,8
+smartTicket Detmold;T-DWQ;10570;28;1LI;10
+Abo sofort Kind flex;T-DUQ;10566;28;1LI;56,8
+Abo sofort Partner flex;T-DTQ;10564;28;1LI;56,8
+DetmoldAbo GK Detmold;T-DXQ;10562;28;1LI;51,12
+DetmoldAbo GK 10%;T-DRQ;10560;28;1LI;51,12
+Theater JobTicket;T-DQE;10558;33;5T;5,9
+Theater JobTicket;T-DQD;10558;32;4T;5,9
+Theater JobTicket;T-DQC;10558;31;3T;5,9
+Theater JobTicket;T-DQB;10558;30;2T;5,9
+Theater JobTicket;T-DQQ;10558;28;1LI;5,8
+Abo sofort Stammkarte flex;T-DOQ;10554;28;1LI;56,8
+WochenendTicket Detmold Kind;T-DNQ;10552;28;1LI;1,5
+KinderTicketzumMobiTicket;T-DLQ;10548;28;1LI;77,7
+MobiTicket Detmold;T-DKQ;10546;28;1LI;77,7
+FamilienAbo Partnerkarte flex;T-DJQ;10544;28;1LI;56,8
+MoTiKindzumFamilienAbo flex;T-DIQ;10542;28;1LI;77,7
+FamilienAbo Detmold flex;T-DHQ;10540;28;1LI;56,8
+DetmoldAbo flex;T-DGQ;10538;28;1LI;56,8
+UmweltMonatsTicket DT 30TaTi;T-DFQ;10536;28;1LI;77,7
+Wochenend-4erTicket DT Erw;T-DEQ;10534;28;1LI;12
+Wochenend-4erTicket DT Kind;T-DDQ;10532;28;1LI;6
+9 UhrMonatsTicket DT 30TaTi 9U;T-DBQ;10528;28;1LI;51,5
+WochenendTicket Detmold Erw;T-DAQ;10526;28;1LI;3
+ChillTicket;T-SDV;10418;82;C4;201,1
+ChillTicket;T-SDV;10418;81;C3;201,1
+ChillTicket;T-SDF;10418;34;6T;179,8
+ChillTicket;T-SDE;10418;33;5T;142,7
+ChillTicket;T-SDD;10418;32;4T;117,6
+ChillTicket;T-SDC;10418;31;3T;100,7
+ChillTicket;T-SDB;10418;30;2T;86,3
+ChillTicket;T-SDV;10418;80;C2;201,1
+ChillTicket;T-SDV;10418;79;C1;201,1
+ChillTicket;T-SDQ;10418;29;1MH;62,8
+Schulwegticket;T-SCG;10416;35;7T;201,1
+Schulwegticket;T-SCF;10416;34;6T;179,8
+Schulwegticket;T-SCE;10416;33;5T;142,7
+Schulwegticket;T-SCD;10416;32;4T;117,6
+Schulwegticket;T-SCC;10416;31;3T;100,7
+Schulwegticket;T-SCB;10416;30;2T;86,3
+Schulwegticket;T-SCQ;10416;28;1LI;59
+Schulwegticket;T-SCQ;10416;27;1GT;63
+Schulwegticket;T-SCP;10416;26;BI;57
+Schulwegticket;T-SCO;10416;25;KMH;32,9
+Schulwegticket;T-SCO;10416;24;KLI;34,6
+Schulwegticket;T-SCQ;10416;29;1MH;63,3
+MonatsTicketAzubi (ST);T-SBG;10414;35;7T;208,7
+MonatsTicketAzubi (ST);T-SBF;10414;34;6T;184
+MonatsTicketAzubi (ST);T-SBE;10414;33;5T;144,8
+MonatsTicketAzubi (ST);T-SBD;10414;32;4T;119,9
+MonatsTicketAzubi (ST);T-SBC;10414;31;3T;102,7
+MonatsTicketAzubi (ST);T-SBB;10414;30;2T;88,9
+MonatsTicketAzubi (ST);T-SBQ;10414;28;1LI;60,5
+MonatsTicketAzubi (ST);T-SBQ;10414;27;1GT;64,6
+MonatsTicketAzubi (ST);T-SBP;10414;26;BI;63,2
+MonatsTicketAzubi (ST);T-SBO;10414;25;KMH;33,9
+MonatsTicketAzubi (ST);T-SBO;10414;24;KLI;35,5
+MonatsTicketAzubi (ST);T-SBQ;10414;29;1MH;64,9
+9 Uhr Bi-Pass Ticket;T-YOP;10698;26;BI;45,81
+Bi-Pass Ticket;T-YNP;10696;26;BI;59,31
+WeserWerreTicket;T-YKV;10690;77;WWT;35
+B??ndeCard Monatskarte Soz;T-YSQ;10706;29;1MH;83,3
+UmweltBildungsTicket Lippe;T-XER;10688;36;LIP;39
+Buskuriergut (unbegleitete Sac;T-XBG;10676;35;7T;15,1
+Buskuriergut (unbegleitete Sac;T-XBF;10676;34;6T;13,2
+Buskuriergut (unbegleitete Sac;T-XBE;10676;33;5T;9,7
+Buskuriergut (unbegleitete Sac;T-XBD;10676;32;4T;8
